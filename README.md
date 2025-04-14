@@ -30,14 +30,14 @@ dsa/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/java-dsa-library.git
-   cd java-dsa-library
+   git clone https://github.com/your-username/java-data_structures.git
+   cd java-data_structures
    ```
 
 2. Compile and run using your IDE or terminal:
    ```bash
-   javac dsa/stack/MyStack.java
-   java dsa.stack.MyStack
+   javac dsa/MyStack.java
+   java dsa.MyStack
    ```
 
 ---
