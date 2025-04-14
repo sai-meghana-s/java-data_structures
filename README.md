@@ -17,14 +17,10 @@ A collection of clean and beginner-friendly **Data Structures** implemented in J
 
 ```
 dsa/
-├── stack/
-│   └── MyStack.java
-├── linkedlist/
-│   └── SinglyLinkedList.java
-├── queue/
-│   └── MyQueue.java        # coming soon
-├── binarytree/
-│   └── MyBinaryTree.java        # coming soon
+├── MyStack.java
+├── MyLinkedList.java
+├── MyQueue.java        # coming soon
+├── MyBinaryTree.java        # coming soon
 └── ...
 ```
 
