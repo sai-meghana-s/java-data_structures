@@ -8,8 +8,8 @@ A collection of clean and beginner-friendly **Data Structures** implemented in J
 
 - ✅ Linked List
 - ✅ Stack (Linked List-based)
+- ✅ Binary Trees
 - 🔜 Queue
-- 🔜 Binary Trees
 
 ---
 
@@ -19,8 +19,8 @@ A collection of clean and beginner-friendly **Data Structures** implemented in J
 dsa/
 ├── MyStack.java
 ├── MyLinkedList.java
-├── MyQueue.java        # coming soon
-├── MyBinaryTree.java        # coming soon
+├── MyBinaryTree.java
+├── MyQueue.java        # coming soon    
 └── ...
 ```
 
@@ -34,7 +34,7 @@ dsa/
    cd java-data_structures
    ```
 
-2. Compile and run using your IDE or terminal:
+2. Compile and run using your IDE or terminal (Example given below):
    ```bash
    javac dsa/MyStack.java
    java dsa.MyStack
